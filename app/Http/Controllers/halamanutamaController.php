@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 class halamanutamaController extends Controller
 {
     public function index(){
-    	return "Halo ini adalah method index, dalam controller halamanutama.";
+    	return "Halo ini adalah method index, dalam controller halaman utama.";
     }
 
     public function about(){
